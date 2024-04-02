@@ -1,14 +1,18 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+  font-size: 30px;
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
+    color: #92c8a5;
     text-align: center;
     background-color: #ffffff;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 img{
+  
   width: 300px;
 }
 
@@ -18,7 +22,8 @@ img{
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
+  
     color:white;
-    text-align: center;
-    background-color: #000000;
+    text-align: left;
+    background-color: #70d292;
 }
